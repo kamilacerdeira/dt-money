@@ -7,7 +7,7 @@ export const Container = styled.header`
 export const Content = styled.div`
     max-width: 1120px;
     margin: 0 auto;
-    padding: 2rem 1rem 12rem; //o rem pega font-size configurado no global (0 16px 160px)
+    padding: 2rem 1rem 12rem; //o rem pega font-size configurado no global (32px 16px 192px)
 
     display: flex;
     align-items: center;
